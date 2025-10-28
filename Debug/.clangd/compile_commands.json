@@ -1,0 +1,52 @@
+[
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/config_edma_util.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/config_hwa_util.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/data_path.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/main.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/mmwDemo_monitor.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/mmw_cli.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/mmw_lvds_stream.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/post_processing.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/rx_ch_bias_measure.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/out_of_box_1443/Debug",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/out_of_box_1443\" -I\"E:/ti/mmwave_sdk_02_01_00_04/packages\" -I\"E:/ti/ti-cgt-arm_16.9.6.LTS/include\" -DSOC_XWR14XX -DSUBSYS_MSS -DDOWNLOAD_FROM_CCS -DMMWAVE_L3RAM_NUM_BANK=6 -DMMWAVE_SHMEM_TCMA_NUM_BANK=0 -DMMWAVE_SHMEM_TCMB_NUM_BANK=0 -DMMWAVE_SHMEM_BANK_SIZE=0x10000 -DDebugP_ASSERT_ENABLED -D_LITTLE_ENDIAN -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/out_of_box_1443/sensor_mgmt.c"
+   }
+]
